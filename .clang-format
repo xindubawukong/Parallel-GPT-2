@@ -1,0 +1,6 @@
+BasedOnStyle: Google
+AllowShortIfStatementsOnASingleLine: AllIfsAndElse
+DerivePointerAlignment: false
+PointerAlignment: Left
+ReferenceAlignment: Left
+ReflowComments: false
