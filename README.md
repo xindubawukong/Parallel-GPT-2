@@ -1,4 +1,4 @@
-# Parallel GPT-2 Inference on CPUs
+# Parallel GPT2 Inference on CPUs
 
 A pure C++ implemented gpt-2 inference, running on multi-CPUs in parallel.
 
